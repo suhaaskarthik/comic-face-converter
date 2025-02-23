@@ -1,3 +1,5 @@
+#Comic face generator
+
 This repository consists of two files. One that trains and designs the architecture of the pix2pix GAN all from scratch using Tensorflow
 The other file that uses the weights of the trained model and applies the comic face generator to any given image
 
